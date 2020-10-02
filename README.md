@@ -1,4 +1,4 @@
-## 🖥️ Socket Client Server - C#
+## 🖥️ Socket Client Server - Java
 
 ### Tools
 
