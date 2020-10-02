@@ -1,5 +1,7 @@
 ## 🖥️ Socket Client Server - Java
 
+<img src="doc/gif/Demo Socket Java.gif" width="70%">
+
 ### Tools
 
 - [Java SE Development Kit 15](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
