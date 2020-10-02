@@ -1,6 +1,6 @@
 ## 🖥️ Socket Client Server - Java
 
-<img src="doc/gif/Demo Socket Java.gif" width="70%">
+<img src="doc/gif/Demo Socket Java.gif" width="50%">
 
 ### Tools
 
